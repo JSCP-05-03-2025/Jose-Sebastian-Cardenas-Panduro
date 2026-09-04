@@ -35,7 +35,7 @@
       </ul>
     </td>
     <td valign="middle" align="center" width="40%">
-      <!-- GIF animado de programador en su estación de trabajo -->
+      <!-- GIF animado estación de trabajo -->
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Station" />
     </td>
   </tr>
@@ -110,9 +110,9 @@
   <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<!-- ANIMACIÓN SNAKE CONTRIBUTIONS -->
+<!-- CHICO PROGRAMADOR TRABAJANDO EN SU SETUP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" width="450" alt="Coders in progress" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="460" alt="Chico programando en setup de monitores" />
 </p>
 
 ---
